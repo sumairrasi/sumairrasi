@@ -27,7 +27,7 @@
 ###
 
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I'm sumairrasi </h1>
 
 ###
 
@@ -35,7 +35,8 @@
 
 ###
 
-<p align="left">I'm sumairrasi<br>- 🔭 I’m working as a Machine Learning Engineer, focusing on building and deploying scalable AI-driven solutions.<br>- 📚 I’m currently learning advanced NLP, Generative AI systems, MLOps practices, and cloud-native ML architectures.<br>- ⚡ In my free time, I experiment with new models, refactor side projects, explore research papers, and strengthen system design skills.</p>
+<p align="left">
+- 🔭 I’m working as a Machine Learning Engineer, focusing on building and deploying scalable AI-driven solutions.<br>- 📚 I’m currently learning advanced NLP, Generative AI systems, MLOps practices, and cloud-native ML architectures.<br>- ⚡ In my free time, I experiment with new models, refactor side projects, explore research papers, and strengthen system design skills.</p>
 
 ###
 
