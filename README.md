@@ -36,7 +36,7 @@
 ###
 
 <p align="left">
-- 🔭 I’m working as a Machine Learning Engineer, focusing on building and deploying scalable AI-driven solutions.<br>- 📚 I’m currently learning advanced NLP, Generative AI systems, MLOps practices, and cloud-native ML architectures.<br>- ⚡ In my free time, I experiment with new models, refactor side projects, explore research papers, and strengthen system design skills.</p>
+- 🔭 I’m working as a AI/ML Engineer, focusing on building and deploying scalable AI-driven solutions.<br>- 📚 I’m currently learning advanced NLP, Generative AI systems, MLOps practices, and cloud-native ML architectures.<br>- ⚡ In my free time, I experiment with new models, refactor side projects, explore research papers, and strengthen system design skills.</p>
 
 ###
 
